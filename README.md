@@ -2,7 +2,7 @@
 <h2>:computer: Computer Science @ <a href = "https://umbc.edu" target = "_blanl">UMBC</a></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lukegude&label=Profile%20views&color=0e75b6&style=flat" alt="lukegude" /> </p>
-<p>Hello World, My name is Luke Gude. I am a senior computer science student at UMBC</p> 
+<p>My name is Luke Gude. I am a senior computer science student at UMBC</p> 
 My areas of study focus primarily on Data Science, Machine Learning, Automation, and Advanced Data Structures.</p> 
 
 
